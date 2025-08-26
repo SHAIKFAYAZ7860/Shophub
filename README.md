@@ -22,7 +22,7 @@ React.js, Vite, HTML, CSS, Bootstrap
 React Hooks for state management
 
 Installation
-git clone https://github.com/YourUsername/ShopHub.git
+git clone [https://github.com/YourUsername/ShopHub.git](https://github.com/SHAIKFAYAZ7860/Shophub)
 cd ShopHub
 npm install
 npm run dev
