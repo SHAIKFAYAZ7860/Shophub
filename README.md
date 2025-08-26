@@ -1,4 +1,5 @@
-#ShopHub
+# ShopHub
+
 Overview
 
 ShopHub is a modern, responsive e-commerce frontend built with React.js and Vite.
